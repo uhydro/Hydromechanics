@@ -1,2 +1,2 @@
-# hydromechanics
+# Hydromechanics
 Scripts for hydromechanics
